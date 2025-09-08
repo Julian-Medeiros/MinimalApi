@@ -3,7 +3,7 @@ Esta é minha resolução do Desafio de Projeto da DIO com a DealGroup - Trabalh
 
 ## Aprendizados
 
-Pude colocar em prática os seguintes conceitos estudados durante o BootCamp até agora:
+Pude começar a entender como a aplicação conversa com o banco de dados e comecei a persisti-los em um DB, utilizando Entity Framework e SQL Server:
 
 - CRUD com administradores e veículos;
 - Autenticação com token JWT;
